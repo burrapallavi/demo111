@@ -40,6 +40,14 @@ public class demo1 {
   
     System.out.println(j11);
     
+    
+  //added code 5
+    int h12=6;
+    int i12=8;
+    int j12=h11+i11;
+  
+    System.out.println(j12);
+    
 }
 }
 
