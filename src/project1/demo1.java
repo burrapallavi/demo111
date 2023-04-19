@@ -14,6 +14,13 @@ public class demo1 {
         int f=8;
         int g=e+f;
         System.out.println(g);
+        
+        
+      //added code 2
+        int h=6;
+        int i=8;
+        int j=e+f;
+        System.out.println(j);
 	}
 	
 	
