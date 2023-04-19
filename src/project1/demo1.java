@@ -31,10 +31,16 @@ public class demo1 {
   
     System.out.println(j1);
 	
-}
 
+
+	//added code 4
+    int h11=6;
+    int i11=8;
+    int j11=h11+i11;
+  
+    System.out.println(j11);
     
-    
+}
 }
 
 
