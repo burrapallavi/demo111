@@ -21,8 +21,21 @@ public class demo1 {
         int i=8;
         int j=e+f;
         System.out.println(j);
-	}
 	
 	
-
+	
+	 //added code 3
+    int h1=6;
+    int i1=8;
+    int j1=h1+i1;
+  
+    System.out.println(j1);
+	
 }
+
+    
+    
+}
+
+
+
